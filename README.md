@@ -24,10 +24,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=onesoumyadeep&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 20px;">
 </div>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center; margin: 5px;">
-	<img src="https://github-profile-trophy.vercel.app/?username=OneSoumyadeep&theme=matrix&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" style="max-width: 100%; height: auto; border-radius: 20px;">
-</div>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center; margin: 5px;">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=onesoumyadeep&theme=ambient_gradient" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; border-radius: 20px;">
+	<img src="https://github-profile-trophy.vercel.app/?username=onesoumyadeep&theme=dark&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" style="max-width: 100%; height: auto; border-radius: 20px;">
 </div>
 <hr style="border-color: #FA005C;">
 <h2>&#128304; Personal Stats:</h2>
