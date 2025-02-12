@@ -13,7 +13,7 @@
 	<a>
 		<img src="https://komarev.com/ghpvc/?username=onesoumyadeep&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="max-width: 100%; height: auto; border-radius: 20px; margin: 0 5px 0 5px;">
 	</a>
-	<a href="https://github.com/OneSoumyadeep/OneSoumyadeep?tab=MIT-1-ov-file">
+	<a href="https://github.com/OneSoumyadeep/onesoumyadeep.github.io?tab=MIT-1-ov-file">
 		<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" style="max-width: 100%; height: auto; border-radius: 20px; margin: 0 5px 0 5px;">
 	</a>
 </div>
