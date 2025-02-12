@@ -1,3 +1,7 @@
+.heading {
+	display: flex;
+	justify-content: center;
+}
 .tech-stacks {
 	display: flex;
 	justify-content: center;
@@ -24,7 +28,7 @@
 	gap: 0.0025px;
 }
 body {
-	font-family: "Merriweather", serif;
+	font-family: 'Merriweather', serif;
 	margin: 10px;
 }
 div {
@@ -40,7 +44,7 @@ div:last-of-type a:last-of-type img {
 	border-radius: 20px;
 }
 div a img {
-	max-width: 100%;
+  max-width: 100%;
 	height: auto;
 	border-radius: 20px;
 	margin: 0 5px 0 5px;
@@ -53,9 +57,6 @@ div img {
 }
 h1 {
 	color: #2a7ae2;
-	text-align: center;
-	white-space: nowrap;
-	overflow: hidden;
 	font-size: 27.5px;
 }
 h2, h3 {
@@ -65,9 +66,6 @@ hr {
 	border: none;
 	height: 2.5px;
 	background-color: #FA005C;
-}
-p {
-	font-weight:;
 }
 span {
 	color: #FA005C;
