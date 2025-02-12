@@ -1,0 +1,74 @@
+.tech-stacks {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 5px;
+	gap: 5px;
+}
+.typing-effect {
+	white-space: nowrap;
+	overflow: hidden;
+	opacity: 0;
+	text-align: center;
+	font-weight: bold;
+	transition: opacity 0.5s ease-in-out;
+	margin: 0.0025px 0;
+}
+.text-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 10vh;
+	gap: 0.0025px;
+}
+body {
+	font-family: "Merriweather", serif;
+	margin: 10px;
+}
+div {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 5px;
+}
+div:last-of-type a:last-of-type img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 20px;
+}
+div a img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 20px;
+	margin: 0 5px 0 5px;
+	transition: 0.3s;
+}
+div img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 20px;
+}
+h1 {
+	color: #2a7ae2;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	font-size: 27.5px;
+}
+h2, h3 {
+	color: #2a7ae2;
+}
+hr {
+	border: none;
+	height: 2.5px;
+	background-color: #FA005C;
+}
+p {
+	font-weight:;
+}
+span {
+	color: #FA005C;
+}
